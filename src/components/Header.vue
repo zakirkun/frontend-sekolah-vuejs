@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="border-top: 5px solid #27ae60;">
         <div class="container-fluid">
-            <router-link :to="{name: 'home'}" class="navbar-brand"><i class="fa fa-graduation-cap" aria-hidden="true"></i>DDI Galesong Barur</router-link>
+            <router-link :to="{name: 'home'}" class="navbar-brand"><i class="fa fa-graduation-cap" aria-hidden="true"></i>DDI Galesong Baru</router-link>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
